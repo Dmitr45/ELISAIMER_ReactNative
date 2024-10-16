@@ -1,7 +1,7 @@
 # ELISAIMER_ReactNative
  Таймер для ИФА анализа(Elisa) 
 
-На основе коммерческого продукта https://dribbble.com/shots/15385822-Pomodoro-App <br>
+На примере коммерческого продукта https://dribbble.com/shots/15385822-Pomodoro-App <br>
 и уроков https://www.youtube.com/watch?v=J31ARfj9rlI&list=PLXkonRjGXZwyi8jRMqb9qTJxvw-BHjL4T&index=1 <br>
 создать таймер для проведения иммуноферментного анализа для дигностических лабораторий. <br>
 За основу логики взять тест-системы компании Вектор-бест.<br>
