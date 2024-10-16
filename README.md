@@ -7,9 +7,9 @@
 За основу логики взять тест-системы компании Вектор-бест.
 Предусмотреть многостадийные реакции с каскадом таймеров. 
 
-Технологии Front-end:
-React Native,
-EXPO,  https://docs.expo.dev/guides/typescript/   npx create-expo-app@latest elisaimer
+Технологии Front-end: /n
+React Native, /n
+EXPO,  https://docs.expo.dev/guides/typescript/   npx create-expo-app@latest elisaimer /n
 React Query, 
 Tailwind,
 Reanimated,
