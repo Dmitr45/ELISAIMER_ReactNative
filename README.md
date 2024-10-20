@@ -10,7 +10,9 @@ https://pomodor.app/timer<br>
 <br>
 Технологии Front-end: <br>
 React Native, <br>
+
 EXPO,  https://docs.expo.dev/guides/typescript/   npx create-expo-app -t expo-template-blank-typescript <br>
+
 React Query, <br>
 Tailwind,<br>
 Reanimated,<br>
