@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Elisaimer",
+    "slug": "elisaApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/splash.JPG",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/apple-touch-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.ico"
+    }
+  }
+}
